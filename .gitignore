@@ -1,4 +1,5 @@
-*.o
+*.
+writer
 build/
 .vscode/
 *.log
