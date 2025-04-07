@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  ldd package for buildroot. Kernel drivers module-misc and scull.
